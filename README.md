@@ -1,4 +1,4 @@
-# Fine-Tuned GPT for Domain-Specific Information Retrieval
+# Fine-Tuned GPT for Mental Health
 
 This repository contains an implementation of a fine-tuned GPT model for domain-specific knowledge retrieval using LoRA, RAG, and ONNX optimization.
 
