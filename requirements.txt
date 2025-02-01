@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+faiss-cpu
+flask
+flask-cors
+onnx
+onnxruntime
+scikit-learn
+sentence-transformers
+rank-bm25
+numpy
+pandas
